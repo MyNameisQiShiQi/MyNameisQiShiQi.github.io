@@ -12,9 +12,9 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-url: https://tianqi.name #the base hostname & protocol for your site e.g. https://www.someone.com
+url: http://woshiqishiqi.xyz #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Qi's Blog
+title: QiShiQi's Blog
 description: > #this means to ignore newlines until "nav_lists:"
     七十七的博客
 
