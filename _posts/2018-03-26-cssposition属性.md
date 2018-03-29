@@ -1,3 +1,7 @@
+---
+layout: post
+title: css定位方式
+---
 ### CSS定位方式
 ### display属性
 每一个元素都有默认的display属性，使用最多的是block, inline和inline-block，不常用的是table-cell。
